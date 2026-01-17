@@ -12,6 +12,7 @@ All execution is performed by a controlled, rule-validated executor,
 ensuring safety, auditability, and deterministic behavior.
 
 ---
+
 ## Why Claudo Exists
 
 Modern automation systems face two fundamental limitations:
@@ -21,6 +22,7 @@ Modern automation systems face two fundamental limitations:
 
 Claudo bridges this gap by isolating reasoning from execution,
 combining adaptive intelligence with strict execution controls.
+
 ---
 
 ## Core Principles

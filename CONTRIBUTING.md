@@ -1,8 +1,8 @@
 # Contributing to Clawdo
 
-Thank you for your interest in contributing to Clawdo.
+Thank you for your interest in contributing to Clawde.
 
-Clawdo is currently focused on architecture, design, and security principles
+Clawde is currently focused on architecture, design, and security principles
 for AI-assisted execution systems.
 
 ## How to Contribute

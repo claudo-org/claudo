@@ -1,4 +1,4 @@
-# Contributing to Clawdo
+# Contributing to Clawde
 
 Thank you for your interest in contributing to Clawde.
 

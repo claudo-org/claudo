@@ -1,8 +1,8 @@
-# Claudo Roadmap
+# Clawdo Roadmap
 
-This roadmap outlines the incremental development plan for Claudo.
+This roadmap outlines the incremental development plan for Clawdo.
 
-Claudo prioritizes **execution safety, auditability, and control**
+Clawdo prioritizes **execution safety, auditability, and control**
 over rapid feature expansion.
 
 ---

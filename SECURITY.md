@@ -2,13 +2,13 @@
 
 ## Reporting a Vulnerability
 
-Claudo is currently in an early design and architecture phase.
+Clawdo is currently in an early design and architecture phase.
 
 If you identify a potential security concern, design flaw,
 or vulnerability related to the concepts described in this repository,
 please report it responsibly.
 
-Contact: hello@claudo.org
+Contact: hello@clawdo.xyz
 
 ## Scope
 

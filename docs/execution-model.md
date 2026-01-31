@@ -1,15 +1,15 @@
 # Execution Model
 
-This document describes how Claudo evaluates decisions
+This document describes how Clawdo evaluates decisions
 and executes actions in a controlled and auditable manner.
 
-Claudo does **not** allow advisory models to execute actions directly.
+Clawdo does **not** allow advisory models to execute actions directly.
 
 ---
 
 ## Core Principle
 
-Claudo enforces a strict separation between:
+Clawdo enforces a strict separation between:
 
 - **Decision Advisory** — reasoning and proposal generation
 - **Execution Authority** — controlled, deterministic action execution
@@ -53,7 +53,7 @@ At no point does the advisory model hold execution credentials.
 - Validation failure → no execution
 - Execution failure → state rollback or safe halt
 
-Claudo defaults to **inaction over unsafe action**.
+Clawdo defaults to **inaction over unsafe action**.
 
 ---
 

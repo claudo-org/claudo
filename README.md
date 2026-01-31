@@ -1,8 +1,8 @@
-# Claudo
+# Clawdo
 
 Claude-powered decision advisory framework for autonomous execution systems.
 
-Claudo is a modular system architecture that separates **decision intelligence**
+Clawdo is a modular system architecture that separates **decision intelligence**
 from **execution authority**.
 
 Claude is used as a decision advisor that analyzes observed system state
@@ -13,14 +13,14 @@ ensuring safety, auditability, and deterministic behavior.
 
 ---
 
-## Why Claudo Exists
+## Why Clawdo Exists
 
 Modern automation systems face two fundamental limitations:
 
 1. AI models provide powerful reasoning, but are unsafe to execute actions directly.
 2. Deterministic systems are safe and predictable, but lack adaptive decision-making.
 
-Claudo bridges this gap by isolating reasoning from execution,
+Clawdo bridges this gap by isolating reasoning from execution,
 combining adaptive intelligence with strict execution controls.
 
 ---

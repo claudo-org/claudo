@@ -70,12 +70,12 @@ Implementation modules will be added incrementally.
 
 ## Disclaimer
 
-Claudo is a **general-purpose automation framework** designed to explore
+Clawdo is a **general-purpose automation framework** designed to explore
 safe architectures for AI-assisted decision advisory systems.
 
 Claude is referenced as an **external large language model** used solely
 for **decision advisory and reasoning support** within a constrained,
 rule-governed execution environment.
 
-Claudo is an **independent open-source project** and is **not affiliated with,
+Clawdo is an **independent open-source project** and is **not affiliated with,
 endorsed by, or maintained by Anthropic** or the Claude team.

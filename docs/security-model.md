@@ -1,15 +1,15 @@
 # Security Model
 
 This document outlines the security assumptions, trust boundaries,
-and threat mitigations within the Claudo framework.
+and threat mitigations within the Clawdo framework.
 
-Claudo is designed under the assumption that **advisory models are untrusted by default**.
+Clawdo is designed under the assumption that **advisory models are untrusted by default**.
 
 ---
 
 ## Trust Boundaries
 
-Claudo explicitly separates the system into trust domains:
+Clawdo explicitly separates the system into trust domains:
 
 ### Untrusted Domain
 - Decision advisory models (e.g. Claude)

@@ -1,9 +1,9 @@
-# Claudo Documentation
+# Clawdo Documentation
 
 This directory contains the design and architecture documentation
-for the Claudo automation framework.
+for the Clawdo automation framework.
 
-Claudo is intentionally designed as a **decision advisory system**,
+Clawdo is intentionally designed as a **decision advisory system**,
 not an autonomous agent.
 
 ---

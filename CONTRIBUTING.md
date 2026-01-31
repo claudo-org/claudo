@@ -1,8 +1,8 @@
-# Contributing to Claudo
+# Contributing to Clawdo
 
-Thank you for your interest in contributing to Claudo.
+Thank you for your interest in contributing to Clawdo.
 
-Claudo is currently focused on architecture, design, and security principles
+Clawdo is currently focused on architecture, design, and security principles
 for AI-assisted execution systems.
 
 ## How to Contribute

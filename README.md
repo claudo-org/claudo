@@ -1,8 +1,8 @@
-# Clawdo
+# Clawde
 
 Claude-powered decision advisory framework for autonomous execution systems.
 
-Clawdo is a modular system architecture that separates **decision intelligence**
+Clawde is a modular system architecture that separates **decision intelligence**
 from **execution authority**.
 
 Claude is used as a decision advisor that analyzes observed system state
@@ -13,14 +13,14 @@ ensuring safety, auditability, and deterministic behavior.
 
 ---
 
-## Why Clawdo Exists
+## Why Clawde Exists
 
 Modern automation systems face two fundamental limitations:
 
 1. AI models provide powerful reasoning, but are unsafe to execute actions directly.
 2. Deterministic systems are safe and predictable, but lack adaptive decision-making.
 
-Clawdo bridges this gap by isolating reasoning from execution,
+Clawde bridges this gap by isolating reasoning from execution,
 combining adaptive intelligence with strict execution controls.
 
 ---
@@ -70,12 +70,12 @@ Implementation modules will be added incrementally.
 
 ## Disclaimer
 
-Clawdo is a **general-purpose automation framework** designed to explore
+Clawde is a **general-purpose automation framework** designed to explore
 safe architectures for AI-assisted decision advisory systems.
 
 Claude is referenced as an **external large language model** used solely
 for **decision advisory and reasoning support** within a constrained,
 rule-governed execution environment.
 
-Clawdo is an **independent open-source project** and is **not affiliated with,
+Clawde is an **independent open-source project** and is **not affiliated with,
 endorsed by, or maintained by Anthropic** or the Claude team.
